@@ -16,4 +16,6 @@ end
 
 fido = Dog.new
  fido.name = "fido"
+ snoopy = Dog.new
+ snoopy.name = "snoopy"
 snoopy.breed = "Beagle"
